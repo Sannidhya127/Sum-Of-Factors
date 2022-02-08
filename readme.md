@@ -1,0 +1,1 @@
+Prints sum of factors of a given number
